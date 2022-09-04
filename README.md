@@ -7,7 +7,7 @@
 
 </header>
  
-## Technologies:
+### Technologies:
 <div id=tools>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' width='35' alt='HTML5'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg' width='35' alt='CSS3' />
@@ -20,7 +20,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='35' alt='mui' />
 </div>
 
-## Analytics:
+### Analytics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanovaCute&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanovaCute&theme=tokyonight)
 
