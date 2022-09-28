@@ -16,7 +16,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='35' alt='sass' />
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='35' alt='react' />
     <img src='https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg' width='35' alt='webpack' />
-    <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' width='35' alt='redux' />
+<!--     <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' width='35' alt='redux' /> -->
     <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='35' alt='mui' />
 </div>
 
