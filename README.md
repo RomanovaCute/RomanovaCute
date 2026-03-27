@@ -20,9 +20,4 @@
     <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" width="45" />
   </a>
 </div>
-
-### Analytics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanovaCute&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanovaCute&theme=tokyonight)
-
 </main>
